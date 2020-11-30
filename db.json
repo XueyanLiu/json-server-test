@@ -1,0 +1,12 @@
+{
+  "status": 400,
+  "data": {
+    "name": "Luis Liu",
+    "email": "luis@example.com"
+  },
+  "error": {
+    "code": 2001001,
+    "msg": "user not found",
+    "user_msg": "请您先注册"
+  }
+}
